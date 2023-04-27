@@ -1,0 +1,4 @@
+{
+  "extends": "@nffreelancer-ui/ts-config/react.json",
+  "include": ["src"]
+}

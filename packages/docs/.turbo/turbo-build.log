@@ -1,0 +1,128 @@
+[36m@nffreelancer-ui/docs:build[0m: cache hit, replaying output [2mc2437ca1a6147588[0m
+[36m@nffreelancer-ui/docs:build: [0m
+[36m@nffreelancer-ui/docs:build: [0m> @nffreelancer-ui/docs@1.0.0 build
+[36m@nffreelancer-ui/docs:build: [0m> build-storybook
+[36m@nffreelancer-ui/docs:build: [0m
+[36m@nffreelancer-ui/docs:build: [0minfo @storybook/react v6.5.12
+[36m@nffreelancer-ui/docs:build: [0minfo 
+[36m@nffreelancer-ui/docs:build: [0minfo => Cleaning outputDir: /Users/diogosoares/Documents/Spikes/nffreelancer-ui/packages/docs/storybook-static
+[36m@nffreelancer-ui/docs:build: [0minfo => Loading presets
+[36m@nffreelancer-ui/docs:build: [0minfo => Loading custom manager config
+[36m@nffreelancer-ui/docs:build: [0minfo => Compiling manager..
+[36m@nffreelancer-ui/docs:build: [0minfo => Loading custom manager config
+[36m@nffreelancer-ui/docs:build: [0mvite v3.1.4 building for production...
+[36m@nffreelancer-ui/docs:build: [0mtransforming...
+[36m@nffreelancer-ui/docs:build: [0minfo => Manager built (16 s)
+[36m@nffreelancer-ui/docs:build: [0mUse of eval is strongly discouraged, as it poses security risks and may cause issues with minification
+[36m@nffreelancer-ui/docs:build: [0mUse of eval is strongly discouraged, as it poses security risks and may cause issues with minification
+[36m@nffreelancer-ui/docs:build: [0mUse of eval is strongly discouraged, as it poses security risks and may cause issues with minification
+[36m@nffreelancer-ui/docs:build: [0m✓ 2533 modules transformed.
+[36m@nffreelancer-ui/docs:build: [0mrendering chunks...
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/iframe.html                                          13.49 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/jsx-runtime.1298b2c5.js                       1.06 KiB / gzip: 0.65 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/jsx-runtime.1298b2c5.js.map                   2.12 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/es.map.constructor.d7d5fbdd.js                0.24 KiB / gzip: 0.20 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/es.map.constructor.d7d5fbdd.js.map            0.75 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/string.8f79b13e.js                            0.36 KiB / gzip: 0.28 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/string.8f79b13e.js.map                        1.08 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/index.a7fd9de7.js                             7.21 KiB / gzip: 2.95 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/index.a7fd9de7.js.map                         15.35 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/preview.b6f5c9c5.js                           0.78 KiB / gzip: 0.48 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/preview.b6f5c9c5.js.map                       7.27 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/config.510f7d6e.js                            5.87 KiB / gzip: 2.33 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/config.510f7d6e.js.map                        20.30 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/make-decorator.10109f23.js                    0.84 KiB / gzip: 0.49 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/make-decorator.10109f23.js.map                2.99 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/preview.7a80c7f9.js                           1.84 KiB / gzip: 0.67 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/preview.7a80c7f9.js.map                       4.19 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/preview.2ead6ef0.js                           4.47 KiB / gzip: 1.71 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/preview.2ead6ef0.js.map                       16.78 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/preview.3c0d9b95.js                           9.52 KiB / gzip: 3.34 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/preview.3c0d9b95.js.map                       38.45 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/es.number.to-fixed.bad655a5.js                1.65 KiB / gzip: 1.00 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/es.number.to-fixed.bad655a5.js.map            8.00 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/preview.216fb139.js                           7.96 KiB / gzip: 1.66 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/preview.216fb139.js.map                       16.87 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/preview.854629ab.js                           10.17 KiB / gzip: 3.93 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/preview.854629ab.js.map                       42.64 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/preview.fe7027ab.js                           3.32 KiB / gzip: 1.50 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/preview.fe7027ab.js.map                       13.94 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/preview.2906d2d2.js                           0.33 KiB / gzip: 0.25 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/preview.2906d2d2.js.map                       0.54 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/home.stories.ff0d3a58.js                      1.19 KiB / gzip: 0.69 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/home.stories.ff0d3a58.js.map                  1.16 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/preview.c188aeff.js                           26.36 KiB / gzip: 8.31 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/preview.c188aeff.js.map                       102.60 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/index.f4fd1460.js                             0.65 KiB / gzip: 0.37 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/index.f4fd1460.js.map                         2.03 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/font-sizes.stories.3ca2f0cd.js                1.32 KiB / gzip: 0.74 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/font-sizes.stories.3ca2f0cd.js.map            1.40 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/TokensGrid.2d9cfee5.js                        1.06 KiB / gzip: 0.54 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/TokensGrid.2d9cfee5.js.map                    1.62 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/fonts.stories.3517ffd9.js                     1.31 KiB / gzip: 0.73 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/fonts.stories.3517ffd9.js.map                 1.36 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/font-weights.stories.d68e9b79.js              1.31 KiB / gzip: 0.73 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/font-weights.stories.d68e9b79.js.map          1.39 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/line-height.stories.958e9455.js               1.31 KiB / gzip: 0.73 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/line-height.stories.958e9455.js.map           1.38 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/Box.stories.7f8a787f.js                       0.38 KiB / gzip: 0.26 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/Box.stories.7f8a787f.js.map                   0.10 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/colors.stories.e9cf91a8.js                    9.27 KiB / gzip: 3.94 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/colors.stories.e9cf91a8.js.map                142.59 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/radii.stories.7226359f.js                     1.29 KiB / gzip: 0.72 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/radii.stories.7226359f.js.map                 1.34 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/space.stories.f0b261ea.js                     1.30 KiB / gzip: 0.74 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/space.stories.f0b261ea.js.map                 1.36 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/Checkbox.stories.173d1874.js                  0.46 KiB / gzip: 0.32 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/Checkbox.stories.173d1874.js.map              0.11 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/Button.stories.8ea7a02f.js                    2.97 KiB / gzip: 0.95 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/Button.stories.8ea7a02f.js.map                5.99 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/Heading.stories.ed558cab.js                   0.61 KiB / gzip: 0.40 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/Heading.stories.ed558cab.js.map               0.11 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/TextInput.stories.c032a05c.js                 0.62 KiB / gzip: 0.40 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/TextInput.stories.c032a05c.js.map             0.11 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/Text.stories.400db8c3.js                      0.75 KiB / gzip: 0.48 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/Text.stories.400db8c3.js.map                  0.10 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/client.ea9598b7.js                            0.67 KiB / gzip: 0.42 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/client.ea9598b7.js.map                        0.89 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/renderDocs.75068e5a.js                        2.65 KiB / gzip: 1.29 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/renderDocs.75068e5a.js.map                    9.56 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/index.6c5a6a68.js                             2.49 KiB / gzip: 1.21 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/index.6c5a6a68.js.map                         5.96 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/es.string.from-code-point.d8cd6bf7.js         0.52 KiB / gzip: 0.38 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/es.string.from-code-point.d8cd6bf7.js.map     2.13 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/es.regexp.flags.15138cc1.js                   0.60 KiB / gzip: 0.42 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/es.regexp.flags.15138cc1.js.map               2.68 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/GlobalScrollAreaStyles-8793ce4a.2fd530cf.js   10.33 KiB / gzip: 2.36 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/GlobalScrollAreaStyles-8793ce4a.2fd530cf.js.map 20.53 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/index.525a14f2.js                             33.61 KiB / gzip: 12.38 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/index.525a14f2.js.map                         121.94 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/TokensGrid.37594f72.css                       0.42 KiB / gzip: 0.22 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/WithTooltip-167e9982.e9d6a959.js              40.44 KiB / gzip: 13.53 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/WithTooltip-167e9982.e9d6a959.js.map          176.70 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/index.8fabffbe.js                             59.72 KiB / gzip: 21.77 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/index.8fabffbe.js.map                         266.70 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/Color-f953d088.a10faf82.js                    33.86 KiB / gzip: 12.76 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/Color-f953d088.a10faf82.js.map                129.69 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/OverlayScrollbars-1355f44c.3b1a3935.js        63.21 KiB / gzip: 26.82 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/OverlayScrollbars-1355f44c.3b1a3935.js.map    430.79 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/index.6dee11a2.js                             135.69 KiB / gzip: 44.60 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/index.6dee11a2.js.map                         327.51 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/syntaxhighlighter-b07b042a.1d60da62.js        125.90 KiB / gzip: 47.89 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/syntaxhighlighter-b07b042a.1d60da62.js.map    456.05 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/config.af1308e0.js                            411.89 KiB / gzip: 119.93 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/config.af1308e0.js.map                        1413.10 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/Props.6b129d65.js                             411.48 KiB / gzip: 121.23 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/Props.6b129d65.js.map                         880.33 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/axe.422f8bbe.js                               460.00 KiB / gzip: 122.69 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/axe.422f8bbe.js.map                           1547.36 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/iframe.4b1eeadb.js                            506.27 KiB / gzip: 140.83 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/iframe.4b1eeadb.js.map                        1393.98 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/formatter-0d5cb0eb.ea6a2cff.js                740.90 KiB / gzip: 234.02 KiB
+[36m@nffreelancer-ui/docs:build: [0mstorybook-static/assets/formatter-0d5cb0eb.ea6a2cff.js.map            1741.88 KiB
+[36m@nffreelancer-ui/docs:build: [0m
+[36m@nffreelancer-ui/docs:build: [0m(!) Some chunks are larger than 500 KiB after minification. Consider:
+[36m@nffreelancer-ui/docs:build: [0m- Using dynamic import() to code-split the application
+[36m@nffreelancer-ui/docs:build: [0m- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/guide/en/#outputmanualchunks
+[36m@nffreelancer-ui/docs:build: [0m- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+[36m@nffreelancer-ui/docs:build: [0minfo => Output directory: /Users/diogosoares/Documents/Spikes/nffreelancer-ui/packages/docs/storybook-static
