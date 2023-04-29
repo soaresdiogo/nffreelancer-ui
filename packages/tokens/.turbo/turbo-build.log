@@ -1,18 +1,18 @@
-[33m@nffreelancer-ui/tokens:build[0m: cache hit, replaying output [2mcbafd9ac4b15a271[0m
+[33m@nffreelancer-ui/tokens:build[0m: cache hit, replaying output [2m7d791e23912c098c[0m
 [33m@nffreelancer-ui/tokens:build: [0m
-[33m@nffreelancer-ui/tokens:build: [0m> @nffreelancer-ui/tokens@2.0.0 build
+[33m@nffreelancer-ui/tokens:build: [0m> @nffreelancer-ui/tokens@2.1.0 build
 [33m@nffreelancer-ui/tokens:build: [0m> tsup src/index.ts --format esm,cjs --dts
 [33m@nffreelancer-ui/tokens:build: [0m
 [33m@nffreelancer-ui/tokens:build: [0mCLI Building entry: src/index.ts
 [33m@nffreelancer-ui/tokens:build: [0mCLI Using tsconfig: tsconfig.json
 [33m@nffreelancer-ui/tokens:build: [0mCLI tsup v6.2.3
 [33m@nffreelancer-ui/tokens:build: [0mCLI Target: node14
-[33m@nffreelancer-ui/tokens:build: [0mESM Build start
 [33m@nffreelancer-ui/tokens:build: [0mCJS Build start
-[33m@nffreelancer-ui/tokens:build: [0mESM dist/index.mjs 1.10 KB
-[33m@nffreelancer-ui/tokens:build: [0mESM ⚡️ Build success in 71ms
-[33m@nffreelancer-ui/tokens:build: [0mCJS dist/index.js 2.25 KB
-[33m@nffreelancer-ui/tokens:build: [0mCJS ⚡️ Build success in 65ms
+[33m@nffreelancer-ui/tokens:build: [0mESM Build start
+[33m@nffreelancer-ui/tokens:build: [0mESM dist/index.mjs 1.13 KB
+[33m@nffreelancer-ui/tokens:build: [0mESM ⚡️ Build success in 9ms
+[33m@nffreelancer-ui/tokens:build: [0mCJS dist/index.js 2.27 KB
+[33m@nffreelancer-ui/tokens:build: [0mCJS ⚡️ Build success in 14ms
 [33m@nffreelancer-ui/tokens:build: [0mDTS Build start
-[33m@nffreelancer-ui/tokens:build: [0mDTS ⚡️ Build success in 791ms
-[33m@nffreelancer-ui/tokens:build: [0mDTS dist/index.d.ts 1.04 KB
+[33m@nffreelancer-ui/tokens:build: [0mDTS ⚡️ Build success in 781ms
+[33m@nffreelancer-ui/tokens:build: [0mDTS dist/index.d.ts 1.06 KB
