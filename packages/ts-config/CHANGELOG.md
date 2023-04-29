@@ -1,4 +1,4 @@
-# @nffreelancer-ui/react
+# @nffreelancer-ui/ts-config
 
 ## 2.0.0
 
