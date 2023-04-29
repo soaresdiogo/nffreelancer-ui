@@ -13,6 +13,7 @@ declare const Box: _stitches_react_types_styled_component.StyledComponent<"div",
         white: string;
         gray100: string;
         gray200: string;
+        gray500: string;
         gray900: string;
         blue500: string;
         blue600: string;
@@ -209,6 +210,7 @@ declare const Text: _stitches_react_types_styled_component.StyledComponent<"p", 
         white: string;
         gray100: string;
         gray200: string;
+        gray500: string;
         gray900: string;
         blue500: string;
         blue600: string;
@@ -405,6 +407,7 @@ declare const Heading: _stitches_react_types_styled_component.StyledComponent<"h
         white: string;
         gray100: string;
         gray200: string;
+        gray500: string;
         gray900: string;
         blue500: string;
         blue600: string;
@@ -602,6 +605,7 @@ declare const Button: _stitches_react_types_styled_component.StyledComponent<"bu
         white: string;
         gray100: string;
         gray200: string;
+        gray500: string;
         gray900: string;
         blue500: string;
         blue600: string;
@@ -798,6 +802,7 @@ declare const TextInputContainer: _stitches_react_types_styled_component.StyledC
         white: string;
         gray100: string;
         gray200: string;
+        gray500: string;
         gray900: string;
         blue500: string;
         blue600: string;
@@ -988,6 +993,7 @@ declare const Input: _stitches_react_types_styled_component.StyledComponent<"inp
         white: string;
         gray100: string;
         gray200: string;
+        gray500: string;
         gray900: string;
         blue500: string;
         blue600: string;
@@ -1185,6 +1191,7 @@ declare const CheckboxContainer: _stitches_react_types_styled_component.StyledCo
         white: string;
         gray100: string;
         gray200: string;
+        gray500: string;
         gray900: string;
         blue500: string;
         blue600: string;
@@ -1385,6 +1392,7 @@ declare const styled: <Type extends _stitches_react_types_util.Function | keyof 
         white: string;
         gray100: string;
         gray200: string;
+        gray500: string;
         gray900: string;
         blue500: string;
         blue600: string;
@@ -1585,6 +1593,7 @@ declare const styled: <Type extends _stitches_react_types_util.Function | keyof 
         white: string;
         gray100: string;
         gray200: string;
+        gray500: string;
         gray900: string;
         blue500: string;
         blue600: string;
@@ -1777,6 +1786,7 @@ declare const css: <Composers extends (string | _stitches_react_types_util.Funct
         white: string;
         gray100: string;
         gray200: string;
+        gray500: string;
         gray900: string;
         blue500: string;
         blue600: string;
@@ -1984,6 +1994,7 @@ declare const globalCss: <Styles extends {
             white: string;
             gray100: string;
             gray200: string;
+            gray500: string;
             gray900: string;
             blue500: string;
             blue600: string;
@@ -2174,6 +2185,7 @@ declare const globalCss: <Styles extends {
         white: string;
         gray100: string;
         gray200: string;
+        gray500: string;
         gray900: string;
         blue500: string;
         blue600: string;
@@ -2365,6 +2377,7 @@ declare const keyframes: (style: {
             white: string;
             gray100: string;
             gray200: string;
+            gray500: string;
             gray900: string;
             blue500: string;
             blue600: string;
@@ -2563,6 +2576,7 @@ declare const theme: string & {
         white: _stitches_react_types_theme.Token<"white", string, "colors", "">;
         gray100: _stitches_react_types_theme.Token<"gray100", string, "colors", "">;
         gray200: _stitches_react_types_theme.Token<"gray200", string, "colors", "">;
+        gray500: _stitches_react_types_theme.Token<"gray500", string, "colors", "">;
         gray900: _stitches_react_types_theme.Token<"gray900", string, "colors", "">;
         blue500: _stitches_react_types_theme.Token<"blue500", string, "colors", "">;
         blue600: _stitches_react_types_theme.Token<"blue600", string, "colors", "">;
@@ -2624,6 +2638,7 @@ declare const createTheme: <Argument0 extends string | ({
         white?: string | number | boolean | undefined;
         gray100?: string | number | boolean | undefined;
         gray200?: string | number | boolean | undefined;
+        gray500?: string | number | boolean | undefined;
         gray900?: string | number | boolean | undefined;
         blue500?: string | number | boolean | undefined;
         blue600?: string | number | boolean | undefined;
@@ -2689,6 +2704,7 @@ declare const createTheme: <Argument0 extends string | ({
         white?: string | number | boolean | undefined;
         gray100?: string | number | boolean | undefined;
         gray200?: string | number | boolean | undefined;
+        gray500?: string | number | boolean | undefined;
         gray900?: string | number | boolean | undefined;
         blue500?: string | number | boolean | undefined;
         blue600?: string | number | boolean | undefined;
@@ -2761,6 +2777,7 @@ declare const config: {
             white: string;
             gray100: string;
             gray200: string;
+            gray500: string;
             gray900: string;
             blue500: string;
             blue600: string;

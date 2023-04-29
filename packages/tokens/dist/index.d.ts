@@ -2,6 +2,7 @@ declare const colors: {
     white: string;
     gray100: string;
     gray200: string;
+    gray500: string;
     gray900: string;
     blue500: string;
     blue600: string;
