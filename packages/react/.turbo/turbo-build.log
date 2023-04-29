@@ -1,18 +1,18 @@
-[34m@nffreelancer-ui/react:build[0m: cache hit, replaying output [2macdf72ddf8daed00[0m
+[34m@nffreelancer-ui/react:build[0m: cache hit, replaying output [2md18f8092ada66907[0m
 [34m@nffreelancer-ui/react:build: [0m
-[34m@nffreelancer-ui/react:build: [0m> @nffreelancer-ui/react@1.0.0 build
+[34m@nffreelancer-ui/react:build: [0m> @nffreelancer-ui/react@2.0.0 build
 [34m@nffreelancer-ui/react:build: [0m> tsup src/index.tsx --format esm,cjs --dts --external react
 [34m@nffreelancer-ui/react:build: [0m
 [34m@nffreelancer-ui/react:build: [0mCLI Building entry: src/index.tsx
 [34m@nffreelancer-ui/react:build: [0mCLI Using tsconfig: tsconfig.json
 [34m@nffreelancer-ui/react:build: [0mCLI tsup v6.2.3
 [34m@nffreelancer-ui/react:build: [0mCLI Target: node14
-[34m@nffreelancer-ui/react:build: [0mCJS Build start
 [34m@nffreelancer-ui/react:build: [0mESM Build start
-[34m@nffreelancer-ui/react:build: [0mCJS dist/index.js 9.16 KB
-[34m@nffreelancer-ui/react:build: [0mCJS ⚡️ Build success in 19ms
+[34m@nffreelancer-ui/react:build: [0mCJS Build start
 [34m@nffreelancer-ui/react:build: [0mESM dist/index.mjs 7.32 KB
-[34m@nffreelancer-ui/react:build: [0mESM ⚡️ Build success in 13ms
+[34m@nffreelancer-ui/react:build: [0mESM ⚡️ Build success in 19ms
+[34m@nffreelancer-ui/react:build: [0mCJS dist/index.js 9.16 KB
+[34m@nffreelancer-ui/react:build: [0mCJS ⚡️ Build success in 13ms
 [34m@nffreelancer-ui/react:build: [0mDTS Build start
-[34m@nffreelancer-ui/react:build: [0mDTS ⚡️ Build success in 2129ms
+[34m@nffreelancer-ui/react:build: [0mDTS ⚡️ Build success in 2312ms
 [34m@nffreelancer-ui/react:build: [0mDTS dist/index.d.ts 90.16 KB
