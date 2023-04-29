@@ -22,13 +22,13 @@ jobs:
           cache: 'npm'
           cache-dependency-path: '**/package-lock.json'
 
-      - run: npm ci
-
       - name: Login to NPM
         run: echo "//registry.npmjs.org/:_authToken=\${NPM_TOKEN}" > .npmrc && npm whoami
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
           NPM_USERNAME: ${{ secrets.NPM_USERNAME }}
+
+      - run: npm ci
 
       - name: Publish to NPM
         id: changesets
